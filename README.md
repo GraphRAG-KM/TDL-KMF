@@ -1,14 +1,14 @@
-# GraphRAG-ASCOC - AI Ontology Generation Tool Driven by GraphRAG
+# TDL-KMF - Tactical Data Link Knowledge Modeling Framework
 
-GraphRAG-ASCOC is an AI ontology generation tool based on GraphRAG that can automatically extract knowledge from PDF documents and generate OWL ontologies and UML models. It integrates text extraction, OCR recognition, graph construction, inference, and other technologies to provide users with a one-stop knowledge graph and ontology generation solution.
+TDL-KMF is a Tactical Data Link Knowledge Modeling Framework designed to support knowledge extraction, ontology construction, and model generation for tactical data link domains. Based on GraphRAG and related intelligent information processing technologies, it can automatically extract domain knowledge from PDF documents and generate OWL ontologies and UML models. It integrates text extraction, OCR recognition, graph construction, inference, and other technologies to provide users with a one-stop knowledge modeling and ontology generation solution for tactical data link systems.
 
 ## Features
 
-- **PDF Document Processing and Text Extraction**: Supports extracting text from PDF documents to obtain key information.
-- **Image OCR Recognition**: Supports text extraction from images, helping recognize content from scanned documents or pictures.
-- **GraphRAG-Based Knowledge Graph Construction**: Automatically constructs knowledge graphs and visualizes knowledge in graph form.
-- **Entity and Relationship Inference**: Infers entities and their relationships from extracted text and images to build a more complete knowledge graph.
-- **Automatic OWL Ontology Generation**: Automatically constructs OWL ontology from extracted information, supporting semantic reasoning and knowledge storage.
+- **PDF Document Processing and Text Extraction**: Supports extracting text from PDF documents to obtain key domain information related to tactical data links.
+- **Image OCR Recognition**: Supports text extraction from images, helping recognize content from scanned documents, technical manuals, or pictures.
+- **GraphRAG-Based Knowledge Graph Construction**: Automatically constructs tactical data link knowledge graphs and visualizes domain knowledge in graph form.
+- **Entity and Relationship Inference**: Infers entities and their relationships from extracted text and images to build a more complete domain knowledge graph.
+- **Automatic OWL Ontology Generation**: Automatically constructs OWL ontology from extracted information, supporting semantic reasoning and knowledge storage in the tactical data link domain.
 - **Automatic StarUML Class Diagram Generation**: Converts ontology structures into UML class diagrams for easy visualization and editing.
 
 ## Installation
